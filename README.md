@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Pushpinder Singh</h1>
+
+<div align="center">
 🎓 **Full-Stack Developer** | **AI/ML Enthusiast** | **Student at Chitkara University**
+</div>
 
 ---
 
