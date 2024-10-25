@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pushpinder Singh</h1>
 
 <div align="center">
-🎓 **Full-Stack Developer** | **AI/ML Enthusiast** | **Student at Chitkara University**
+🎓 <strong>Full-Stack Developer</strong> | <strong>AI/ML Enthusiast</strong> | <strong>Student at Chitkara University</strong>
 </div>
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-🚀 **Current Projects**  
+🚀 **Current Progress**  
 - **RentHub**: A multi-vendor rental platform  
 - **Java Coding Challenge**: LeetCode solutions & problem-solving  
 
