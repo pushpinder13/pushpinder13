@@ -16,7 +16,7 @@
 ---
 
 🚀 **Current Progress**  
-- **RentHub**: A multi-vendor rental platform  
+- **Rentifyy**: A multi-vendor rental platform  
 - **Java Coding Challenge**: LeetCode solutions & problem-solving  
 
 ---
